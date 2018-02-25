@@ -9,7 +9,7 @@ paginate = 10
 
 
 [permalinks]
-    post = "/:year/:month/:day/:title/"
+    post = "/:year/:month/:day/:slug/"
 
 [indexes]
   tag = "tags"
