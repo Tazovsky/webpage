@@ -1,0 +1,19 @@
+---
+title: Page is under construction
+author: Kamil Foltyński
+date: "`r Sys.time()`"
+slug: under-construction
+categories: []
+tags: ["introduction", "blogdown", "r", "aws"]
+---
+
+I've just set up AWS instance and created this page using `blogdown` R package, so it will make some time to polish everything and publish more content.
+
+And now I will leave you my cat - Hodor ;)
+
+```{r, echo=FALSE}
+shiny::HTML('<blockquote class="imgur-embed-pub" lang="en" data-id="a/g84SL"><a href="//imgur.com/g84SL">Meet Hodor2</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>')
+```
+
+
+
